@@ -12293,4 +12293,3 @@
 # aapua
 # äänestyksessä
 # aamulla
-# 

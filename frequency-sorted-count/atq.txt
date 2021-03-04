@@ -6545,4 +6545,3 @@ ada'taa	10200
 ada'naii	10200
 ada'ki	10200
 Abihud	10200
-

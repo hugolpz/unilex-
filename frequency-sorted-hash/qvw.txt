@@ -9740,4 +9740,3 @@
 # a'ayalcaptinpis
 # a'ap
 # Ä
-# 

@@ -6545,4 +6545,3 @@
 # ada'naii
 # ada'ki
 # Abihud
-# 

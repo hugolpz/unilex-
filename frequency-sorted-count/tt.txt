@@ -39456,4 +39456,3 @@ Competition	2413
 CNN	2413
 BMW	2413
 Apple	2413
-

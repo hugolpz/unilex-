@@ -4817,4 +4817,3 @@ abilang	10405
 Abanggit	10405
 abandi	10405
 abait	10405
-

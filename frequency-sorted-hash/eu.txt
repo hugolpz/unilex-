@@ -7710,4 +7710,3 @@
 # aberatsok
 # aberasbide
 # Abelek
-# 
