@@ -19,7 +19,7 @@ Could you share instructions to do so ?
 I understand the following (add `x` when ok):
 - [ ] the curation is done on github, via online text editing.
 - [ ] this method makes it super fast to do. A motivated volunteer can review about 1,000 to 2,000 words per hour.
-- [ ] when the word is NOT from my language I just press `delete` to delete that line's heading `#`.
+- [ ] when the word is NOT from my language I just press `delete` on that line's heading `#`.
 - [ ] lines and words without heading `#` will now be ignored.
 - [ ] I understand that no other edit are necessary.
 
