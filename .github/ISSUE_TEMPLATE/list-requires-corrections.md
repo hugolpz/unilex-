@@ -18,7 +18,7 @@ Could you share instructions to do so ?
 ### Questionnaire
 I understand the following (add `x` when ok):
 - [ ] the curation is done on github, via online text editing.
-- [ ] this method is super fast. A motivated volunteer can review about 1,000 to 4,000 words per hour.
+- [ ] this method is super fast. A motivated volunteer can review about 2,000 to 5,000 words per hour.
 - [ ] when the word is NOT from my language I just press `delete` on that line's heading `#`.
 - [ ] lines and words without heading `#` will now be ignored.
 - [ ] to move to next word, press the down arrow key `↓`.
